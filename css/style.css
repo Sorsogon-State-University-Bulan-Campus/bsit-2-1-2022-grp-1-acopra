@@ -701,6 +701,10 @@ body{
 .Project-gallery a {
 	background:none;
 }
+.Project-gallery img {
+	width: 100%;
+	height: 250px;
+}
 .service-pagenation{
 	text-align: center;
 	margin-top: 30px;
