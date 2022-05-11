@@ -364,6 +364,7 @@ body{
 }
 .gallery li a img{
 	display:block;
+	height: 100px;
 }
 /*---footer---*/
 .footer{
@@ -481,13 +482,13 @@ body{
 	border-bottom: 1px solid silver;
 	margin-bottom: 13px;
 }
-.about-services h4{
+.about-services h4, .about-histore h4{
 	color: #7E7E7E;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 18px;
 	line-height: 1.5em;
 }
-.about-services p{
+.about-services p, .about-histore p{
 	font-size: 0.8125em;
 	color: rgba(85, 85, 85, 0.53);
 	line-height: 1.5em;
